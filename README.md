@@ -1,2 +1,5 @@
-# meus-estudos-dev
-Repositório criado inicialmente para o desafio github da DIO. A ideia é manter nesse repositório anotações diversas sobre temas que estou estudando.
+# Meus estudos dev
+### Sobre
+
+Repositório criado com o intuito de manter minhas soluções para os desafios de código da plataforma Digital Innovation One, bem como anotações diversas sobre temas que estou estudando.
+
